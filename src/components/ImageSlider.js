@@ -1,2 +1,2 @@
 // Bomb Component Code Goes Here
-import 
+import React from 'react'
