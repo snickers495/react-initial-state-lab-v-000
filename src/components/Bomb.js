@@ -9,8 +9,8 @@ export default class Bomb extends React.Component {
   }
   render(){
     return(
-      {this.state.secondsLeft === 0 ? <p>BOOM!</p> :  <p>{this.state.secondsLeft} seconds left before I go boom!</p>}
-
+      {this.state.secondsLeft === 0 ? <p>BOOM!</p> :
+        <p>{this.state.secondsLeft} seconds left before I go boom!</p>}
     )
   }
 }
