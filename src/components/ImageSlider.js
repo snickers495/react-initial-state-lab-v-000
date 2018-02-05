@@ -7,5 +7,5 @@ export default class ImageSlider extends React.Component {
       currentSlideIndex: 0;
     }
   }
-  
+  render()
 }
