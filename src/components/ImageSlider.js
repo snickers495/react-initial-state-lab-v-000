@@ -1,3 +1,3 @@
 // Bomb Component Code Goes Here
 import React from 'react';
-export default ImageSlider
+export default class ImageSlider 
